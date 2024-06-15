@@ -1,4 +1,6 @@
 # Music-Genre-Classification
 
-Sebuah web yang digunakan untuk melakukan identifikasi audio dan menampilkan list instrumen musik yang digunakan dalam audio tersebut. Rekaman audio yang juga dikenal sebagai suara, klasifikasi proses ini yang menjadi inti dari berbagai teknologi modern termasuk asisten, virtual AI pidato pengakuan, otomatis dan teks untuk pidato. Pengindeksan klasifikasi audio proyek seperti orang-orang yang telah disebutkan di atas mulai dengan annotated. Data audio mesin memerlukan data ini untuk mengetahui bagaimana keadaan untuk mendengar dan apa yang harus didengarkan. Menggunakan data ini, mereka mengembangkan kemampuan untuk membedakan antara suara untuk menyelesaikan tugas-tugas khusus. Klasifikasi audio dedicated alam pasal ini kita melihat empat jenis klasifikasi dan untuk setiap. Use-cases terkait, jenis file audio data klasifikasi klasifikasi akustik yang juga dikenal sebagai peristiwa deteksi dan akustik.
+Sebuah hasil yang digunakan untuk melakukan identifikasi audio dan menampilkan list instrumen musik yang digunakan dalam audio tersebut. Rekaman audio yang juga dikenal sebagai suara, klasifikasi proses ini yang menjadi inti dari berbagai teknologi modern termasuk asisten, virtual AI pidato pengakuan, otomatis dan teks untuk pidato. Pada penelitian ini menggunakan dataset GTZAN yang terdiri dari 10 genre dengan total 1000 audio. Pada proses kali ini melalui beberapa tahapan yaitu:
+#1. 
+
 
