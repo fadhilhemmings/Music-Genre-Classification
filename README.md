@@ -32,3 +32,8 @@ Berdasarkan hasil diatas maka digunakanlah algoritma XGBoost karen memiliki ting
 #  Deployment
 Pada tahap ini merupakan penggabungan antara pemrograman web dan python yang dihubungkan menggunakan framerowk flask dengan memanfaatkan platform anaconda sebagai server local. 
 
+![landing page](https://github.com/fadhilhemmings/Music-Genre-Classification/assets/87648911/79b30fca-7857-4830-8a52-54415e574154)
+
+
+
+
